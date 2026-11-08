@@ -302,7 +302,7 @@ GLOBAL_API_ID          = int(_os.environ.get("API_ID", "30158957").strip() or "3
 GLOBAL_API_HASH        = _os.environ.get("API_HASH", "143ac7b1111331422c3bfe88213995e1").strip() or "143ac7b1111331422c3bfe88213995e1"
 GLOBAL_DEVELOPER_NAME  = _os.environ.get("DEVELOPER_NAME", "").strip() or "Amrit"
 GLOBAL_DEVELOPER_HANDLE= _os.environ.get("DEVELOPER_HANDLE", "").strip() or "@xno_amrit"
-GLOBAL_SUPPORT_USERNAME= _os.environ.get("SUPPORT_USERNAME", "").strip() or "@Mental_stuff_gc"
+GLOBAL_SUPPORT_USERNAME= _os.environ.get("SUPPORT_USERNAME", "").strip() or "@Mentals_empire"
 
 _IS_USERBOT = "--userbot" in _sys.argv or _os.environ.get("USERBOT_MODE") == "1"
 
