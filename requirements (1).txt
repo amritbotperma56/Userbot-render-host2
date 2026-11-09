@@ -1,0 +1,1 @@
+telethon>=1.30.0\npython-telegram-bot>=21.7\nrequests>=2.31.0\nqrcode>=7.4.2\ngTTS>=2.5.1\nyt-dlp>=2024.10.7\naiohttp>=3.9.0\n
